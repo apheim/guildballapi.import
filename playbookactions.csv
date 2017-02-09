@@ -1,0 +1,11 @@
+Name,IconUrl,Damage,DamageValue,Abbreviation
+Push,Push.png,N,,>
+Dodge,,N,,<
+Character Play 1,cp1.png,N,,G
+Character Play 2,,N,,GG
+Knock Down,,N,,KD
+Tackle,,N,,T
+1 Damage,,Y,1,1
+2 Damage,,Y,2,2
+3 Damage,,Y,3,3
+4 Damage,,Y,4,4
